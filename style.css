@@ -193,33 +193,33 @@ nav ul li a:hover {
   background: url(./assets/3.jpeg) no-repeat center center/cover;
   width: 20em;
   height: 10em;
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
   box-shadow: 0 0 5px black;
 }
 .services-container .service:nth-child(2) .service-img {
   background: url(./assets/13.jpeg) no-repeat center center/cover;
   width: 20em;
   height: 10em;
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
   box-shadow: 0 0 5px black;
 }
 .services-container .service:last-child .service-img {
   background: url(./assets/6.jpeg) no-repeat center center/cover;
   width: 20em;
   height: 10em;
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -ms-border-radius: 10px;
-  -o-border-radius: 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
   box-shadow: 0 0 5px black;
 }
 .services h2 {
