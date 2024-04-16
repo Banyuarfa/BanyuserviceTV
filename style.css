@@ -278,7 +278,7 @@ nav ul li a:hover {
 }
 
 .about .container p {
-  font-size: 1em;
+  font-size: 1rem;
   margin: 3em auto;
 }
 /* Gallery Styles */
@@ -351,6 +351,9 @@ footer {
   text-align: center;
   border-top: 1px solid rgb(32, 58, 151);
   font-size: 1em;
+}
+footer p{
+  font-size: 1rem;
 }
 .wa-btn {
   position: fixed;
